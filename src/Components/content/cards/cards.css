@@ -1,0 +1,75 @@
+.cardBorder {
+  border: 0px solid ;
+  background-color: white;
+  width: 1070px;
+  height: 240px;
+  margin-top: 20px;
+  box-shadow: 10px #ffffff;
+}
+.btn {
+  /* Center vertically */
+  margin-bottom: 60px;
+}
+
+.headingChip {
+  display: flex;
+  width: 100%;
+  padding-left: 40px;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.chipCard {
+
+  font-size: 12px;
+  font-weight: 550  ;
+  height: 18px !important;
+}
+.randomCard.chipCard{
+    margin:10px!important
+}
+.contain {
+  display: grid;
+  grid-template-columns: 500px 60px;
+  grid-template-rows: 60px;
+  grid-column-gap: 100px;
+}
+.headingChip h4 {
+  font-size: 16px;
+  font-weight: 650;
+  margin-right: 10px;
+}
+.randomCard{
+    margin-right: 110px;
+}
+.ratingCard1 {
+  margin-right: 410px;
+}
+.ratingCard {
+  /* Adjust these values accordingly */
+  top: 3px;
+}
+.descriptionCard {
+  text-align: left;
+  margin-left: 38px;
+  margin-top: 10px;
+}
+.byCardText{
+    font-weight: 600;
+    font-size: 14px;
+    color: #444444d7;
+}
+.pageCard{
+    text-align: right !important;
+
+    margin-left: 660px !important;
+}
+.favCard{
+  margin-bottom: 50px;
+  margin-left: 70px;
+}
+
+.popupDialog{
+   
+  
+}

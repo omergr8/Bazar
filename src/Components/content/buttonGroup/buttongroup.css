@@ -1,0 +1,22 @@
+.buttonGroup{
+margin-top: 90px;
+margin-right: 680px;
+}
+.buttonBg{
+    margin-left: 8px !important;
+    font-size : 10px !important; 
+    width: 105px !important;
+     height:55px !important;
+     color: black !important;
+     background-color: white!important;
+}
+.spacerSpanContact{
+    margin: 10px;
+}
+.contactusButtonGroup{
+    float: right;
+    margin-right: 75px;
+    font-weight: 550;
+    font-size: 13px;
+    color: rgb(99, 96, 96);
+}
